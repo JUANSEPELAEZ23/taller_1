@@ -23,4 +23,4 @@ Con base en los hallazgos del análisis, se recomienda encarecidamente a los inv
 2. **Ejecutar el script**:
    Para ejecutar el proyecto, utiliza el siguiente comando:
    ```bash
-   python taller_1.py
+   python taller_1.ipynb
